@@ -1,0 +1,9 @@
+grid:
+  cell_size: 10
+  orientation: "xy"
+
+cable:
+  width: 50
+
+routing:
+  offset: 100
