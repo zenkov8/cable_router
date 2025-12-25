@@ -25,10 +25,15 @@ And the configuration file:
 data/config.yaml
 ```
 
-Run the program via main.py with arguments from \cable_router:
---model — path to the building JSON model
---source — cable source coordinates (x,y)
---target — cable target coordinates (x,y)
+## Running the Program
+
+Run `main.py` from the `cable_router` directory with the following arguments:
+
+### Arguments
+
+- `--model` — path to the building JSON model  
+- `--source` — cable source coordinates `(x, y)`  
+- `--target` — cable target coordinates `(x, y)`
 
 Command examples:
 ```bash
